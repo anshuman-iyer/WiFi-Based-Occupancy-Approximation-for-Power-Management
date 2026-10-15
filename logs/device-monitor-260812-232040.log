@@ -1,0 +1,979 @@
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 8
+Dropped devices      : 0
+======================================
+CSV,11154,0,0,0.00,0.00,8,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 5
+Average device RSSI  : -46.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 12
+Dropped devices      : 0
+======================================
+CSV,16155,1,5,-46.00,0.00,12,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 2
+Dropped devices      : 0
+======================================
+CSV,21154,0,0,0.00,0.00,2,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 6
+Dropped devices      : 0
+======================================
+CSV,26154,0,0,0.00,0.00,6,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 1
+Average device RSSI  : -95.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 10
+Dropped devices      : 0
+======================================
+CSV,31154,1,1,-95.00,0.00,10,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 13
+Dropped devices      : 0
+======================================
+CSV,36154,0,0,0.00,0.00,13,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 2
+Average device RSSI  : -97.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 4
+Dropped devices      : 0
+======================================
+CSV,41154,1,2,-97.00,0.00,4,0
+
+========== Occupancy Window ==========
+Unique devices       : 2
+Probe packets        : 5
+Average device RSSI  : -89.62 dBm
+Device RSSI variance : 11.39
+Channel at report    : 8
+Dropped devices      : 0
+======================================
+CSV,46155,2,5,-89.62,11.39,8,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 2
+Average device RSSI  : -86.50 dBm
+Device RSSI variance : 0.00
+Channel at report    : 11
+Dropped devices      : 0
+======================================
+CSV,51154,1,2,-86.50,0.00,11,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 2
+Average device RSSI  : -93.50 dBm
+Device RSSI variance : 0.00
+Channel at report    : 2
+Dropped devices      : 0
+======================================
+CSV,56154,1,2,-93.50,0.00,2,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 2
+Average device RSSI  : -90.50 dBm
+Device RSSI variance : 0.00
+Channel at report    : 6
+Dropped devices      : 0
+======================================
+CSV,61155,1,2,-90.50,0.00,6,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 3
+Average device RSSI  : -92.33 dBm
+Device RSSI variance : 0.00
+Channel at report    : 9
+Dropped devices      : 0
+======================================
+CSV,66154,1,3,-92.33,0.00,9,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 13
+Dropped devices      : 0
+======================================
+CSV,71154,0,0,0.00,0.00,13,0
+
+========== Occupancy Window ==========
+Unique devices       : 2
+Probe packets        : 5
+Average device RSSI  : -45.12 dBm
+Device RSSI variance : 395.02
+Channel at report    : 4
+Dropped devices      : 0
+======================================
+CSV,76155,2,5,-45.12,395.02,4,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 12
+Average device RSSI  : -66.92 dBm
+Device RSSI variance : 0.00
+Channel at report    : 7
+Dropped devices      : 0
+======================================
+CSV,81154,1,12,-66.92,0.00,7,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 11
+Dropped devices      : 0
+======================================
+CSV,86154,0,0,0.00,0.00,11,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 2
+Dropped devices      : 0
+======================================
+CSV,91154,0,0,0.00,0.00,2,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 5
+Dropped devices      : 0
+======================================
+CSV,96154,0,0,0.00,0.00,5,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 9
+Dropped devices      : 0
+======================================
+CSV,101154,0,0,0.00,0.00,9,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 1
+Average device RSSI  : -87.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 13
+Dropped devices      : 0
+======================================
+CSV,106154,1,1,-87.00,0.00,13,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 3
+Dropped devices      : 0
+======================================
+CSV,111154,0,0,0.00,0.00,3,0
+
+========== Occupancy Window ==========
+Unique devices       : 2
+Probe packets        : 4
+Average device RSSI  : -68.83 dBm
+Device RSSI variance : 568.03
+Channel at report    : 7
+Dropped devices      : 0
+======================================
+CSV,116154,2,4,-68.83,568.03,7,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 11
+Dropped devices      : 0
+======================================
+CSV,121154,0,0,0.00,0.00,11,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 1
+Dropped devices      : 0
+======================================
+CSV,126154,0,0,0.00,0.00,1,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 5
+Dropped devices      : 0
+======================================
+CSV,131154,0,0,0.00,0.00,5,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 1
+Average device RSSI  : -31.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 9
+Dropped devices      : 0
+======================================
+CSV,136155,1,1,-31.00,0.00,9,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 12
+Dropped devices      : 0
+======================================
+CSV,141154,0,0,0.00,0.00,12,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 4
+Average device RSSI  : -75.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 3
+Dropped devices      : 0
+======================================
+CSV,146154,1,4,-75.00,0.00,3,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 7
+Dropped devices      : 0
+======================================
+CSV,151154,0,0,0.00,0.00,7,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 10
+Dropped devices      : 0
+======================================
+CSV,156154,0,0,0.00,0.00,10,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 1
+Average device RSSI  : -95.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 1
+Dropped devices      : 0
+======================================
+CSV,161154,1,1,-95.00,0.00,1,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 5
+Dropped devices      : 0
+======================================
+CSV,166154,0,0,0.00,0.00,5,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 8
+Dropped devices      : 0
+======================================
+CSV,171154,0,0,0.00,0.00,8,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 3
+Average device RSSI  : -68.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 12
+Dropped devices      : 0
+======================================
+CSV,176154,1,3,-68.00,0.00,12,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 3
+Dropped devices      : 0
+======================================
+CSV,181154,0,0,0.00,0.00,3,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 7
+Average device RSSI  : -78.57 dBm
+Device RSSI variance : 0.00
+Channel at report    : 6
+Dropped devices      : 0
+======================================
+CSV,186154,1,7,-78.57,0.00,6,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 4
+Average device RSSI  : -75.50 dBm
+Device RSSI variance : 0.00
+Channel at report    : 10
+Dropped devices      : 0
+======================================
+CSV,191154,1,4,-75.50,0.00,10,0
+
+========== Occupancy Window ==========
+Unique devices       : 2
+Probe packets        : 5
+Average device RSSI  : -76.83 dBm
+Device RSSI variance : 14.69
+Channel at report    : 1
+Dropped devices      : 0
+======================================
+CSV,196154,2,5,-76.83,14.69,1,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 1
+Average device RSSI  : -72.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 4
+Dropped devices      : 0
+======================================
+CSV,201154,1,1,-72.00,0.00,4,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 8
+Dropped devices      : 0
+======================================
+CSV,206154,0,0,0.00,0.00,8,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 12
+Dropped devices      : 0
+======================================
+CSV,211154,0,0,0.00,0.00,12,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 2
+Dropped devices      : 0
+======================================
+CSV,216154,0,0,0.00,0.00,2,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 6
+Dropped devices      : 0
+======================================
+CSV,221154,0,0,0.00,0.00,6,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 10
+Dropped devices      : 0
+======================================
+CSV,226154,0,0,0.00,0.00,10,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 13
+Dropped devices      : 0
+======================================
+CSV,231154,0,0,0.00,0.00,13,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 4
+Dropped devices      : 0
+======================================
+CSV,236154,0,0,0.00,0.00,4,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 8
+Dropped devices      : 0
+======================================
+CSV,241155,0,0,0.00,0.00,8,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 11
+Dropped devices      : 0
+======================================
+CSV,246154,0,0,0.00,0.00,11,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 2
+Dropped devices      : 0
+======================================
+CSV,251154,0,0,0.00,0.00,2,0
+
+========== Occupancy Window ==========
+Unique devices       : 2
+Probe packets        : 4
+Average device RSSI  : -58.00 dBm
+Device RSSI variance : 1156.00
+Channel at report    : 6
+Dropped devices      : 0
+======================================
+CSV,256155,2,4,-58.00,1156.00,6,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 9
+Dropped devices      : 0
+======================================
+CSV,261154,0,0,0.00,0.00,9,0
+
+========== Occupancy Window ==========
+Unique devices       : 2
+Probe packets        : 22
+Average device RSSI  : -73.62 dBm
+Device RSSI variance : 13.14
+Channel at report    : 13
+Dropped devices      : 0
+======================================
+CSV,266154,2,22,-73.62,13.14,13,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 4
+Dropped devices      : 0
+======================================
+CSV,271154,0,0,0.00,0.00,4,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 7
+Dropped devices      : 0
+======================================
+CSV,276154,0,0,0.00,0.00,7,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 11
+Dropped devices      : 0
+======================================
+CSV,281154,0,0,0.00,0.00,11,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 2
+Dropped devices      : 0
+======================================
+CSV,286154,0,0,0.00,0.00,2,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 5
+Dropped devices      : 0
+======================================
+CSV,291154,0,0,0.00,0.00,5,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 9
+Dropped devices      : 0
+======================================
+CSV,296154,0,0,0.00,0.00,9,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 13
+Dropped devices      : 0
+======================================
+CSV,301154,0,0,0.00,0.00,13,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 3
+Dropped devices      : 0
+======================================
+CSV,306154,0,0,0.00,0.00,3,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 7
+Dropped devices      : 0
+======================================
+CSV,311154,0,0,0.00,0.00,7,0
+
+========== Occupancy Window ==========
+Unique devices       : 2
+Probe packets        : 6
+Average device RSSI  : -62.40 dBm
+Device RSSI variance : 707.56
+Channel at report    : 11
+Dropped devices      : 0
+======================================
+CSV,316155,2,6,-62.40,707.56,11,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 1
+Dropped devices      : 0
+======================================
+CSV,321154,0,0,0.00,0.00,1,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 5
+Dropped devices      : 0
+======================================
+CSV,326154,0,0,0.00,0.00,5,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 1
+Average device RSSI  : -97.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 9
+Dropped devices      : 0
+======================================
+CSV,331155,1,1,-97.00,0.00,9,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 2
+Average device RSSI  : -74.50 dBm
+Device RSSI variance : 0.00
+Channel at report    : 12
+Dropped devices      : 0
+======================================
+CSV,336154,1,2,-74.50,0.00,12,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 5
+Average device RSSI  : -86.20 dBm
+Device RSSI variance : 0.00
+Channel at report    : 3
+Dropped devices      : 0
+======================================
+CSV,341154,1,5,-86.20,0.00,3,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 7
+Dropped devices      : 0
+======================================
+CSV,346154,0,0,0.00,0.00,7,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 10
+Dropped devices      : 0
+======================================
+CSV,351154,0,0,0.00,0.00,10,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 1
+Dropped devices      : 0
+======================================
+CSV,356154,0,0,0.00,0.00,1,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 5
+Dropped devices      : 0
+======================================
+CSV,361154,0,0,0.00,0.00,5,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 8
+Dropped devices      : 0
+======================================
+CSV,366154,0,0,0.00,0.00,8,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 12
+Dropped devices      : 0
+======================================
+CSV,371154,0,0,0.00,0.00,12,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 2
+Average device RSSI  : -56.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 3
+Dropped devices      : 0
+======================================
+CSV,376155,1,2,-56.00,0.00,3,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 6
+Dropped devices      : 0
+======================================
+CSV,381154,0,0,0.00,0.00,6,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 10
+Dropped devices      : 0
+======================================
+CSV,386154,0,0,0.00,0.00,10,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 1
+Dropped devices      : 0
+======================================
+CSV,391154,0,0,0.00,0.00,1,0
+
+========== Occupancy Window ==========
+Unique devices       : 2
+Probe packets        : 8
+Average device RSSI  : -74.67 dBm
+Device RSSI variance : 75.11
+Channel at report    : 4
+Dropped devices      : 0
+======================================
+CSV,396154,2,8,-74.67,75.11,4,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 8
+Dropped devices      : 0
+======================================
+CSV,401154,0,0,0.00,0.00,8,0
+����������������������������������������������������������������========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 12
+Dropped devices      : 0
+======================================
+CSV,406155,0,0,0.00,0.00,12,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 25
+Average device RSSI  : -70.56 dBm
+Device RSSI variance : 0.00
+Channel at report    : 2
+Dropped devices      : 0
+======================================
+CSV,411154,1,25,-70.56,0.00,2,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 6
+Dropped devices      : 0
+======================================
+CSV,416154,0,0,0.00,0.00,6,0
+
+========== Occupancy Window ==========
+Unique devices       : 2
+Probe packets        : 2
+Average device RSSI  : -70.50 dBm
+Device RSSI variance : 600.25
+Channel at report    : 10
+Dropped devices      : 0
+======================================
+CSV,421154,2,2,-70.50,600.25,10,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 13
+Dropped devices      : 0
+======================================
+CSV,426154,0,0,0.00,0.00,13,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 2
+Average device RSSI  : -94.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 4
+Dropped devices      : 0
+======================================
+CSV,431154,1,2,-94.00,0.00,4,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 3
+Average device RSSI  : -45.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 8
+Dropped devices      : 0
+======================================
+CSV,436155,1,3,-45.00,0.00,8,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 3
+Average device RSSI  : -95.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 11
+Dropped devices      : 0
+======================================
+CSV,441154,1,3,-95.00,0.00,11,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 2
+Dropped devices      : 0
+======================================
+CSV,446154,0,0,0.00,0.00,2,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 2
+Average device RSSI  : -93.50 dBm
+Device RSSI variance : 0.00
+Channel at report    : 6
+Dropped devices      : 0
+======================================
+CSV,451155,1,2,-93.50,0.00,6,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 9
+Dropped devices      : 0
+======================================
+CSV,456154,0,0,0.00,0.00,9,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 13
+Dropped devices      : 0
+======================================
+CSV,461154,0,0,0.00,0.00,13,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 4
+Dropped devices      : 0
+======================================
+CSV,466154,0,0,0.00,0.00,4,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 7
+Dropped devices      : 0
+======================================
+CSV,471154,0,0,0.00,0.00,7,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 11
+Dropped devices      : 0
+======================================
+CSV,476154,0,0,0.00,0.00,11,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 2
+Dropped devices      : 0
+======================================
+CSV,481154,0,0,0.00,0.00,2,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 1
+Average device RSSI  : -91.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 5
+Dropped devices      : 0
+======================================
+CSV,486154,1,1,-91.00,0.00,5,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 9
+Dropped devices      : 0
+======================================
+CSV,491154,0,0,0.00,0.00,9,0
+
+========== Occupancy Window ==========
+Unique devices       : 1
+Probe packets        : 1
+Average device RSSI  : -34.00 dBm
+Device RSSI variance : 0.00
+Channel at report    : 13
+Dropped devices      : 0
+======================================
+CSV,496154,1,1,-34.00,0.00,13,0

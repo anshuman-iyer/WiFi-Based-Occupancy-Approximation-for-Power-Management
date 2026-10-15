@@ -1,0 +1,20 @@
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Fixed WiFi channel   : 11
+Dropped devices      : 0
+======================================
+CSV,13255,0,0,0.00,0.00,11,0
+
+========== Occupancy Window ==========
+Unique devices       : 0
+Probe packets        : 0
+Average device RSSI  : 0.00 dBm
+Device RSSI variance : 0.00
+Fixed WiFi channel   : 11
+Dropped devices      : 0
+======================================
+CSV,18255,0,0,0.00,0.00,11,0
